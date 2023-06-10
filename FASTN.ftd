@@ -6,6 +6,7 @@ favicon: /-/insiyaya.github.io/porfolio/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: ayushsoni1010.github.io/-packages
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: insiyaya.github.io/porfolio/FASTN/my-ds
